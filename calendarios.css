@@ -1,0 +1,18 @@
+#dataAvui{
+   background-color: lightblue;
+}
+
+.container{
+   padding:2%;
+   padding-bottom: 0%;
+}
+.buttons{
+   text-align: center;
+}
+
+.all-calendars-container{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   column-gap: 5%;
+   padding: 2%;
+}
